@@ -34,7 +34,7 @@
 - 🚀 Currently building **full-stack web apps** & **AI/ML** projects
 - 🌱 Learning **data manipulation, web scraping & automation** with Python
 - 🤝 Open to collaborating on **open-source AI**, **cloud-native**, or **cybersecurity** projects
-- 📫 Reach me: **hirusha.dev@example.com**
+
 
 <br clear="both"/>
 
