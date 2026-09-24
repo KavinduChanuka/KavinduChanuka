@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Kavindu%20Chanuka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Cloud%20Architecture&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Kavindu%20Chanuka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Fullstack%20Developer%20%7C%20Cybersecurity%20%7C%20Cloud&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=AI+%26+Cybersecurity+Enthusiast;Learning+Cloud+Architecture+(AWS+%26+Azure);Building+Secure+%26+Intelligent+Solutions;BSc+IT+Undergraduate+%40+OUSL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=AI+%26+Fullstack+Developer;Cybersecurity+Enthusiast;Learning+Cloud+Architecture+(AWS+%26+Azure);BSc+IT+Undergraduate+%40+OUSL" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,8 @@
 
 <img align="right" alt="coding gif" width="320" src="https://cdn.dribbble.com/userupload/12735683/file/original-b208aa2ea9ea3d2b1a9c60b7e3a2ca11.gif">
 
-- 🎓 Pursuing a **BSc in Information Technology** at **The Open University of Sri Lanka**
+- 💻 **AI & Fullstack Developer** — building end-to-end web apps & intelligent systems
+- 🎓 Undergraduate pursuing a **BSc in Information Technology** at **The Open University of Sri Lanka**
 - ☁️ Deeply interested in **Cloud Architecture** (AWS & Azure)
 - 🛡️ Passionate about **Cybersecurity** and secure system design
 - 🤖 Exploring **Artificial Intelligence** & Machine Learning
