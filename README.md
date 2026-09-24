@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://github.com/HirushaMalindra">
-<img src="https://img.shields.io/github/followers/HirushaMalindra?label=Followers&style=for-the-badge&color=6C63FF&logo=github" />
+<a href="https://github.com/KavinduChanuka">
+<img src="https://img.shields.io/github/followers/KavinduChanuka?label=Followers&style=for-the-badge&color=6C63FF&logo=github" />
 </a>
-<a href="https://github.com/HirushaMalindra?tab=repositories">
+<a href="https://github.com/KavinduChanuka?tab=repositories">
 <img src="https://img.shields.io/badge/Repos-5-00C9A7?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
@@ -64,10 +64,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HirushaMalindra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaMalindra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavinduChanuka&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduChanuka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaMalindra&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=00C9A7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduChanuka&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=00C9A7&currStreakLabel=00C9A7"/>
 
 </div>
 
@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HirushaMalindra&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KavinduChanuka&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </div>
 
 <br/>
@@ -84,7 +84,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaMalindra&theme=redical&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduChanuka&theme=redical&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=ffffff"/>
 </div>
 
 <br/>
@@ -92,7 +92,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HirushaMalindra/HirushaMalindra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/KavinduChanuka/KavinduChanuka/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > ⚙️ To activate the snake animation, add a GitHub Action workflow (`Platane/snk`) to your profile repo — I've included the setup steps below.
@@ -105,7 +105,7 @@
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hirusha.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/HirushaMalindra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KavinduChanuka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
