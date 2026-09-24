@@ -34,7 +34,7 @@
 - 🚀 Currently building **full-stack web apps** & **AI/ML** projects
 - 🌱 Learning **data manipulation, web scraping & automation** with Python
 - 🤝 Open to collaborating on **open-source AI**, **cloud-native**, or **cybersecurity** projects
-
+- 📫 Reach me: **hirusha.dev@example.com**
 
 <br clear="both"/>
 
@@ -84,7 +84,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduChanuka&theme=redical&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduChanuka&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=ffffff"/>
 </div>
 
 <br/>
